@@ -30,8 +30,7 @@ BEGIN
 		(6, 1, 1, 'Daniel', 1500.00, '2020-09-15', NULL, 0.2),
 		(7, NULL, NULL, 'Eva', 1200.00, '2021-05-01', NULL, 0.1)
 	;
-END;
-//
+END //
 DELIMITER ;
 -- #endregion
 
